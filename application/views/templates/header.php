@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Afridocs</title>
 	<link href="/resources/less/main.css" rel="stylesheet" />
